@@ -10,7 +10,7 @@ https://drive.google.com/drive/folders/1H6-LYqhtMqtO8Sd30fE5Y-dd6Ih-Y5Ag
 
 |ファイル名|Wikipediaのダンプ日付|md5|
 | --- | --- | --- |
-| jawikicorpus.20180320.tar.gz | 20180320 | 6fa89642eb520c5c241c00f2112dbccd |
+| jawikicorpus.20180320.tar.gz | 2018-03-20 | 6fa89642eb520c5c241c00f2112dbccd |
 
 ## ファイル構成
 tarコマンドでファイルを解凍すると以下の3つのファイルが作られます。
