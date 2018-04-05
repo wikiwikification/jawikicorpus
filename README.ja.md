@@ -16,12 +16,10 @@ https://drive.google.com/drive/folders/1H6-LYqhtMqtO8Sd30fE5Y-dd6Ih-Y5Ag
 tarコマンドでファイルを解凍すると以下の3つのファイルが作られます。
 
 ### entities.tsv
-テキスト中の語句とそれに対応するWikipediaエンティティが記載されたtsvファイルです。WikipediaエンティティについてはWikificationとしてタグ付けするにふさわしいもののみ選定しています。現時点での条件は以下のとおりです。
+テキスト中の語句とそれに対応するWikipediaエンティティが記載されたtsvファイルです。テキスト中の語句については、Wikipediaのエンティティ一覧、および、記事リダイレクト情報を元に作成しています。またWikipediaエンティティについてはWikificationとしてタグ付けするにふさわしいもののみ選定しています。現時点での条件は以下のとおりです。
 * 曖昧さ回避のページではないもの。
 * 対応するWikipedia記事が存在するもの。
     * ※ リダイレクトを挟むものについてはリダイレクト先のWikipediaエンティティを採用しています。
-
-なおテキスト中の語句については、Wikipediaのエンティティ一覧、および、記事リダイレクト情報を元に作成しています。
 
 ### articles.txt
 記事リンク以外のMarkdownを取り除いたWikipediaの記事本文です。
