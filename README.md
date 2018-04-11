@@ -30,7 +30,7 @@ Each line of the plain text corresponds to a Wikipedia article.
 Line breaks in its original markdowns are replaced with tab characters.
 Each entity of the article is listed at the beginning of each line.
 
-Note that the markdowns for article links are formatted as '[[Wikipedia entity|displayed text]]'.
+Note that the markdowns for article links are formatted as `[[Wikipedia entity|displayed text]]`.
 In addition, the article links are limited to those suitable for Wikification tagging.
 The selection rules are the same as those shown in the entities.tsv section.
 
