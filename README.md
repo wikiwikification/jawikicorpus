@@ -10,8 +10,8 @@ https://drive.google.com/drive/folders/1H6-LYqhtMqtO8Sd30fE5Y-dd6Ih-Y5Ag
 
 |File|Wikipedia dump date|md5|
 | --- | --- | --- |
-| jawikicorpus.20180401.tar.gz | 2018-04-01 | a838ece1b8ead3d3eb0d8444a883c3ee |
-| jawikicorpus.20180320.tar.gz | 2018-03-20 | 6fa89642eb520c5c241c00f2112dbccd |
+| [jawikicorpus.20180401.tar.gz](https://drive.google.com/open?id=19EDGQBR_Cs03-ynD78t9_N_Vg0z950Gg) | 2018-04-01 | a838ece1b8ead3d3eb0d8444a883c3ee |
+| [jawikicorpus.20180320.tar.gz](https://drive.google.com/open?id=1eQD65YHp3yoambMOSTEccJIG5RkiQ_hX) | 2018-03-20 | 6fa89642eb520c5c241c00f2112dbccd |
 
 ## Files
 By decompressing an archive with a tar command, the following 3 files are created.
