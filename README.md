@@ -4,17 +4,20 @@
 A Wikipedia tagged corpus specific to creating a machine learning model for Wikification which stands for the process of linking terms in a plain text to corresponding Wikipedia entities.
 
 ## Download
-Due to the large file size, files are uploaded to Google Drive.
+Due to the large file size, files are uploaded to Dropbox.
 
-https://drive.google.com/drive/folders/1H6-LYqhtMqtO8Sd30fE5Y-dd6Ih-Y5Ag
+https://www.dropbox.com/sh/601gucye55nr1gq/AABekRrz4IYtp2n0_lTrKsGma
 
 |File|Wikipedia dump date|md5|
 | --- | --- | --- |
-| [jawikicorpus.20180401.tar.gz](https://drive.google.com/open?id=19EDGQBR_Cs03-ynD78t9_N_Vg0z950Gg) | 2018-04-01 | a838ece1b8ead3d3eb0d8444a883c3ee |
-| [jawikicorpus.20180320.tar.gz](https://drive.google.com/open?id=1eQD65YHp3yoambMOSTEccJIG5RkiQ_hX) | 2018-03-20 | 6fa89642eb520c5c241c00f2112dbccd |
+| [jawikicorpus.20180420.tar.xz](https://www.dropbox.com/s/x0ra2tjl874r42z/jawikicorpus.20180420.tar.xz) | 2018-04-20 | 3a81b9115463906e3a5dbfe99364a3ee |
 
 ## Files
-By decompressing an archive with a tar command, the following 3 files are created.
+By decompressing an archive with the following tar command, 3 files are created.
+
+```bash
+tar xvJf jawikicorpus.yyyyMMdd.tar.xz
+```
 
 ### entities.tsv
 A tsv file containing terms appeared in a plain text and corresponding Wikipedia entities.
