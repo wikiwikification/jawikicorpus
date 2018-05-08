@@ -4,17 +4,20 @@
 Wikification (テキスト中の語句をWikipediaのエンティティに対応づけること) の機械学習モデルを作ることに特化したWikpediaのタグ付きコーパスです。
 
 ## ダウンロード方法
-サイズが大きいため、Google Driveにファイルをアップロードしています。
+サイズが大きいため、Dropboxにファイルをアップロードしています。
 
-https://drive.google.com/drive/folders/1H6-LYqhtMqtO8Sd30fE5Y-dd6Ih-Y5Ag
+https://www.dropbox.com/sh/601gucye55nr1gq/AABekRrz4IYtp2n0_lTrKsGma
 
 |File|Wikipedia dump date|md5|
 | --- | --- | --- |
-| [jawikicorpus.20180401.tar.gz](https://drive.google.com/open?id=19EDGQBR_Cs03-ynD78t9_N_Vg0z950Gg) | 2018-04-01 | a838ece1b8ead3d3eb0d8444a883c3ee |
-| [jawikicorpus.20180320.tar.gz](https://drive.google.com/open?id=1eQD65YHp3yoambMOSTEccJIG5RkiQ_hX) | 2018-03-20 | 6fa89642eb520c5c241c00f2112dbccd |
+| [jawikicorpus.20180420.tar.xz](https://www.dropbox.com/s/x0ra2tjl874r42z/jawikicorpus.20180420.tar.xz) | 2018-04-20 | 3a81b9115463906e3a5dbfe99364a3ee |
 
 ## ファイル構成
-tarコマンドでファイルを解凍すると以下の3つのファイルが作られます。
+以下のtarコマンドでファイルを解凍すると3つのファイルが作られます。
+
+```bash
+tar xvJf jawikicorpus.yyyyMMdd.tar.xz
+```
 
 ### entities.tsv
 テキスト中の語句とそれに対応するWikipediaエンティティが記載されたtsvファイルです。テキスト中の語句については、Wikipediaのエンティティ一覧、および、記事リダイレクト情報を元に作成しています。またWikipediaエンティティについてはWikificationとしてタグ付けするにふさわしいもののみ選定しています。現時点での条件は以下のとおりです。
