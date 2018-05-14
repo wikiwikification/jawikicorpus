@@ -1,7 +1,7 @@
 # Japanese-Wikipedia Wikification Corpus
 
 ## このコーパスは何?
-Wikification (テキスト中の語句をWikipediaのエンティティに対応づけること) の機械学習モデルを作ることに特化したWikpediaのタグ付きコーパスです。
+Wikification (テキスト中の語句をWikipediaのエンティティに対応づけること) の機械学習モデルを作ることに特化したWikipediaのタグ付きコーパスです。
 
 ## ダウンロード方法
 サイズが大きいため、Dropboxにファイルをアップロードしています。
