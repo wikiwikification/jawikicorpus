@@ -10,8 +10,7 @@ https://www.dropbox.com/sh/601gucye55nr1gq/AABekRrz4IYtp2n0_lTrKsGma
 
 |File|Wikipedia dump date|md5|
 | --- | --- | --- |
-| [jawikicorpus.20180501.tar.xz](https://www.dropbox.com/s/ddwbujg6meq6y11/jawikicorpus.20180501.tar.xz) | 2018-05-01 | b7892ec09e7116f6119a16c8e3aebc2c |
-| [jawikicorpus.20180420.tar.xz](https://www.dropbox.com/s/x0ra2tjl874r42z/jawikicorpus.20180420.tar.xz) | 2018-04-20 | 3a81b9115463906e3a5dbfe99364a3ee |
+| [jawikicorpus.20180501.tar.xz](https://www.dropbox.com/s/lt1ndxjw2hlb5cs/jawikicorpus.20180501.tar.xz) | 2018-05-01 | 1a2fa10d2b9376d85cfa6f7989836a36 |
 
 ## Files
 By decompressing an archive with the following tar command, 3 files are created.
