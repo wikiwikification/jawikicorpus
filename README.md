@@ -1,6 +1,6 @@
 # Japanese-Wikipedia Wikification Corpus
 
-## What is this corpus?
+## Summary
 A Wikipedia tagged corpus specific to creating a machine learning model for Wikification which stands for the process of linking terms in a plain text to corresponding Wikipedia entities.
 
 ## Download
