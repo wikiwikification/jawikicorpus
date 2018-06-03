@@ -1,6 +1,6 @@
 # Japanese-Wikipedia Wikification Corpus
 
-## このコーパスは何?
+## 概要
 Wikification (テキスト中の語句をWikipediaのエンティティに対応づけること) の機械学習モデルを作ることに特化したWikipediaタグ付きコーパスです。
 
 ## ダウンロード方法
