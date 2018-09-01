@@ -10,7 +10,6 @@ https://www.dropbox.com/sh/601gucye55nr1gq/AABekRrz4IYtp2n0_lTrKsGma
 
 |File|Wikipedia dump date|md5|
 | --- | --- | --- |
-| [jawikicorpus.20180820.tar.xz](https://www.dropbox.com/s/6mhk3u389o9uerk/jawikicorpus.20180820.tar.xz) | 2018-08-20 | 046713f75a0e2eef4ed8d3b1c8ede9ae |
 | [jawikicorpus.20180720.tar.xz](https://www.dropbox.com/s/annralia8gihpno/jawikicorpus.20180720.tar.xz) | 2018-07-20 | 18c3838931d03d8e0459c0bb7ba22a7f |
 | [jawikicorpus.20180701.tar.xz](https://www.dropbox.com/s/xlbf1tuveg4ps9j/jawikicorpus.20180701.tar.xz) | 2018-07-01 | cfa9eb391ee09cb3c6f803d28529be84 |
 | [jawikicorpus.20180620.tar.xz](https://www.dropbox.com/s/o870ax9ut9pgjbh/jawikicorpus.20180620.tar.xz) | 2018-06-20 | 1c7593696fbc300c3dd72eb533e69ab5 |
